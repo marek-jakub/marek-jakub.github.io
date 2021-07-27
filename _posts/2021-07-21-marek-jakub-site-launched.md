@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marek Jakub, a first post for testing purposes"
+title: "A first post for testing purposes"
 date: 2021-07-26
 ---
 
