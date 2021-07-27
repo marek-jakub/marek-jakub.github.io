@@ -11,7 +11,7 @@ layout: feed
 	<id>http://marek-jakub.github.io/blog</id>
 	<author>
 		<name>Marek Jakub</name>
-		<email>marekjakub@hotmail.co.uk</email>
+		<email>mj3935538@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
