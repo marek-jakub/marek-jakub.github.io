@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A first post for testing purposes"
+title: "The blog is born"
 date: 2021-07-26
 ---
 
