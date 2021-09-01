@@ -54,6 +54,6 @@ I will be happy to remove any errors you find. Please, let me know!
 
 **References:**
 
-_Bentley, J.L. and Yao, A.C.-C. (1976). An almost optimal algorithm for unbounded searching. Information Processing Letters, [online] 5(3), pp.82–87. Available at: https://pmt-eu.hosted.exlibrisgroup.com/primo-explore/fulldisplay?  docid=TN_cdi_osti_scitechconnect_1318069&context=PC&vid=44OPN_VU1&lang=en_US&search_scope=EVERYTHING&  adaptor=primo_central_multiple_fe&tab=default_tab&query=any,contains,  An%20almost%20optimal%20algorithm%20for%20unbounded%20searching&offset=0 [Accessed 20 Aug. 2021]._
+_Bentley, J.L. and Yao, A.C.-C. (1976). An almost optimal algorithm for unbounded searching. Information Processing Letters, [online] 5(3), pp.82–87. Available at: https://pmt-eu.hosted.exlibrisgroup.com/  primo-explore/fulldisplay?  docid=TN_cdi_osti_scitechconnect_1318069&context=PC&vid=44OPN  _VU1&lang=en_US&search_scope=EVERYTHING&  adaptor=primo_central_multiple_fe&tab=default  _tab&query=any,contains,An%20almost%20optimal%20algorithm%20for%20unbounded%  20searching&offset=0 [Accessed 20 Aug. 2021]._
 
 _Miller, B.N. and Ranum, D.L. (2011). Problem solving with algorithms and data structures using Python. Sherwood, Or.: Franklin, Beedle & Associates._
