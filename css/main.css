@@ -1,3 +1,13 @@
+/*
+* regroup
+*/
+article, aside, figure, footer, header, hgroup, nav, section {
+    display:block; 
+}
+
+/*
+* main
+*/
 body {
     margin: 60px auto;
     width: 65%;
@@ -20,18 +30,18 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 1.8em;
+    font-size: 1.6em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    margin: 0;
+}
+h2 {
+    font-size: 1.3em;
+    margin: 0;
 }
 p {
     font-size: 1.0em;
-    line-height: 1.1em;
-    color: #333;
-}
-img {
-    width: auto;
-    margin: auto;
-    display: block;
+    line-height: 1.3em;
+    color: rgb(29, 27, 27);
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -43,4 +53,19 @@ ul.posts {
 }
 ul.posts li {
     list-style: none;
+}
+
+figure {
+    float: center;
+    width: auto;
+    text-align: center;
+    font-style: italic;
+    font-size: 0.9em;
+    text-indent: 0;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+#intro {
+    margin-bottom: 45px;
 }

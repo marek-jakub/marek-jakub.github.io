@@ -1,0 +1,25 @@
+
+.post {
+    display: block;
+    margin-top: 15px;
+}
+.post-front {
+    display: inline;
+}
+.post-date {
+    float: right;
+    margin-right: 25px;
+}
+.continue-reading {
+    margin: 0px 25px 0px 0px;
+    padding: 0px;
+    line-height: 1.0em;
+    font-style: italic;
+    text-align: right;
+}
+.divider {
+    margin: 25px;
+	font: 40px "Georgia", Georgia, Times, serif;
+	color: #20911c;
+	text-align: center;
+}
