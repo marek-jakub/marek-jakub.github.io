@@ -5,7 +5,7 @@ article, aside, figure, footer, header, hgroup, nav, section {
     display:block; 
 }
 
-/*
+   /*
 * main
 */
 body {
@@ -68,4 +68,52 @@ figure {
 
 #intro {
     margin-bottom: 45px;
+}
+
+.notes p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+/* Added media queries to make the page responsive to screen size. */
+@media screen and (max-width: 1440px) {
+ 
+}
+  
+@media screen and (max-width: 960px) {
+    article {
+        width: 95%;
+        font-size: 16px;
+    }
+    .notes {
+        width: 95%;
+        font-size: 16px;
+    }
+    .notes img {
+        width: 95%;
+    }
+    code {
+        font-size: 12px;
+    }
+}
+  
+@media screen and (max-width: 640px) {
+    article {
+        width: 95%;
+        font-size: 14px;
+    }
+    .notes {
+        width: 95%;
+        font-size: 14px;
+    }
+    .notes img {
+        width: 95%;
+    }
+    code {
+        font-size: 12px;
+    }
+}
+  
+@media screen and (max-width: 340px) {
+ 
 }
