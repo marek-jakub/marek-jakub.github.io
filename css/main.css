@@ -14,7 +14,7 @@ article, aside, figure, footer, header, hgroup, nav, section {
 * main
 */
 body {
-    margin: 60px auto;
+    margin: 25px auto;
     width: 65%;
 }
 nav ul, footer ul {
