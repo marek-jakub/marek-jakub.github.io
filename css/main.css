@@ -14,7 +14,7 @@ article, aside, figure, footer, header, hgroup, nav, section {
 * main
 */
 body {
-    margin: 25px auto;
+    margin: 60px auto;
     width: 65%;
 }
 nav ul, footer ul {
@@ -87,6 +87,10 @@ figure {
 }
   
 @media screen and (max-width: 960px) {
+    body {
+        margin: 40px auto;
+        width: 75%;
+    }
     article {
         width: 95%;
         font-size: 16px;
@@ -111,6 +115,10 @@ figure {
 }
   
 @media screen and (max-width: 640px) {
+    body {
+        margin: 30px auto;
+        width: 85%;
+    }
     article {
         width: 95%;
         font-size: 14px;
@@ -135,6 +143,10 @@ figure {
 }
   
 @media screen and (max-width: 340px) {
+    body {
+        margin: 20px auto;
+        width: 95%;
+    }
     article {
         width: 99%;
         font-size: 12px;
