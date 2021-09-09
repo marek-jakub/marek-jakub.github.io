@@ -91,6 +91,14 @@ figure {
         width: 95%;
         font-size: 16px;
     }
+    .posts {
+        width: 95%;
+        font-size: 16px;
+    }
+    .engage {
+        width: 95%;
+        font-size: 16px;
+    }
     .notes {
         width: 95%;
         font-size: 16px;
@@ -105,6 +113,14 @@ figure {
   
 @media screen and (max-width: 640px) {
     article {
+        width: 95%;
+        font-size: 14px;
+    }
+    .posts {
+        width: 95%;
+        font-size: 14px;
+    }
+    .engage {
         width: 95%;
         font-size: 14px;
     }
@@ -123,6 +139,14 @@ figure {
 @media screen and (max-width: 340px) {
     article {
         width: 99%;
+        font-size: 12px;
+    }
+    .posts {
+        width: 95%;
+        font-size: 12px;
+    }
+    .engage {
+        width: 95%;
         font-size: 12px;
     }
     .notes {
