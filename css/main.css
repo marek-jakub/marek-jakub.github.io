@@ -70,6 +70,7 @@ figure {
     margin-bottom: 45px;
 }
 
+/* To keep long links (text) from making horizontal scroll appear. */
 .notes p {
     overflow: hidden;
     text-overflow: ellipsis;
@@ -77,7 +78,7 @@ figure {
 
 /* Added media queries to make the page responsive to screen size. */
 @media screen and (max-width: 1440px) {
- 
+
 }
   
 @media screen and (max-width: 960px) {
@@ -115,5 +116,18 @@ figure {
 }
   
 @media screen and (max-width: 340px) {
- 
+    article {
+        width: 99%;
+        font-size: 12px;
+    }
+    .notes {
+        width: 99%;
+        font-size: 12px;
+    }
+    .notes img {
+        width: 97%;
+    }
+    code {
+        font-size: 10px;
+    }
 }
