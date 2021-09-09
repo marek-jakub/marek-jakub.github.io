@@ -91,11 +91,10 @@ figure {
         width: 95%;
         font-size: 16px;
     }
-    .posts {
-        width: 95%;
+    ul.posts {
         font-size: 16px;
     }
-    .engage {
+    .engage p {
         width: 95%;
         font-size: 16px;
     }
@@ -116,11 +115,10 @@ figure {
         width: 95%;
         font-size: 14px;
     }
-    .posts {
-        width: 95%;
+    ul.posts {
         font-size: 14px;
     }
-    .engage {
+    .engage p {
         width: 95%;
         font-size: 14px;
     }
@@ -141,12 +139,11 @@ figure {
         width: 99%;
         font-size: 12px;
     }
-    .posts {
-        width: 95%;
+    ul.posts {
         font-size: 12px;
     }
-    .engage {
-        width: 95%;
+    .engage p {
+        width: 99%;
         font-size: 12px;
     }
     .notes {
