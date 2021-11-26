@@ -19,9 +19,11 @@ With 26 letters in the alphabet (conventional British), the starting three-dimen
 
 As books are inserted into the list, the number of nodes might change, therefore I had to decide where to hold the number of nodes for the three-dimensional shape describing the current container size, as well as the load of each container to determine if containers’ size should be scaled up or down. The implemented ADT has a variable holding this information, but the first node of the list could hold this information as well (no need for both, but the implementation contains both to show either of the possibilities). On object creation, the list is separated into 28 containers, the first holding the alphabet, the second holding the load for each letter and 26 containers for each letter in the alphabet (holding books).
 
-The code is available at https://github.com/marek-jakub/shapedList as well.
+The code is available as a [GitHub repository](https://github.com/marek-jakub/shapedList) as well.
 
 .py
+
+***
 
 ~~~
 def index(letter, alphabet):
@@ -172,6 +174,8 @@ class ShapeList:
         for i in range(1, 27):
             print(self.shape_list[i], " - ", self.shape_list[self.shape_nodes + i])
 ~~~
+
+***
 
 ## Observations
 
