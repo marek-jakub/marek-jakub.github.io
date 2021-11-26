@@ -51,7 +51,7 @@ class ShapeList:
             self.shape_list[i] = chr(i + 96)
             self.shape_list[i + self.shape_nodes] = 0
 
-    def isEmpty(self):
+    def is_empty(self):
         """ The load of inserted words for each letter reside at indices i + shape_size.
          If they are all 0, containers are empty (returns true). """
         is_empty = True
@@ -165,7 +165,7 @@ class ShapeList:
         else:
             print("Enter a letter of alphabet")
 
-    def showStats(self):
+    def show_stats(self):
         """ Shows the length of the list holding the data (size of all containers), number of
           inserted words and the load of each container. """
         print("Containers have size: ", len(self.shape_list), " number of inserted words: ",
