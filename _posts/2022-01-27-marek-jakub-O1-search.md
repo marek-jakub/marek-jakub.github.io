@@ -7,7 +7,7 @@ date: 2022-01-27
 
 ## List of lists
 
-OUsing hash tables to beat the binary search timing at finding data items, hashing has proven its worth. Its O(1) efficiency is what makes it so attractive. But as Miller and Ranum (2011) assert, it can be rather difficult to design a perfect hash function. One of the ways to resolve collisions is through chaining.
+Using hash tables to beat the binary search timing at finding data items, hashing has proven its worth. Its O(1) efficiency is what makes it so attractive. But as Miller and Ranum (2011) assert, it can be rather difficult to design a perfect hash function. One of the ways to resolve collisions is through chaining.
 
 And this is where I have tried to push it further. Rather than designing a hash function, the structure of the hash table itself can serve in placing data items at their positions, in a way, using the structure itself as a hash function. The aim has been to keep it simple, as that is where the efficiency is maintained. Using a starting list length, the remainder method is used for item placement, whenever a collision happens, a new list is placed at the given index, but this time its length is changed. The remainder method is used again, and the two colliding items are placed in the inner list. This happens whenever there is a collision. The important assumption here is that no two items have the same remainder when being placed in two successive lists, as the remainder method uses different list lengths. If the starting list is at a level 0, then each collision would introduce a list at a new inner level (in this case level 0 + 1), and each level would have lists of the same length, yet different from other levels to introduce variation into the remainder method.
 
