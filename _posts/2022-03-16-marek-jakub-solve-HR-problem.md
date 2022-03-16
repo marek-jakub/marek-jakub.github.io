@@ -1,0 +1,10 @@
+---
+layout: post
+title: "How not to solve HackerRank problem"
+date: 2022-03-16
+---
+1200 words
+
+Taking a time to solve HackerRank problems is a great way to prepare for a job interview or school exams. Problems pose as stepping stones, starting at easy difficulty, through medium to hard, and then on to advanced or expert levels. A problem one chooses to solve is described, and input/output characteristics are given. If one does struggle, one can opt to enter discussion thread, where regularly solutions appear, study those first before entering one’s own solution, or choose to see editorial notes (in that case solution points do not count).
+
+So it could be said that a precondition to a good solution is a detailed understanding of a given problem. There are usually hints indicating what structures could be used in problem solution, with links to complementary material. This is where I made my first mistake. Instead of following suggestions to some study text, I ignored it. The problem I was to solve is called Swap Nodes [Algo] (Kumar, n.d.), defined as a medium difficulty problem. In hindsight analysis, my decision stemmed from a false feeling of security and I must admit, arrogance (I assumed I could solve it in reasonable amount of time without any help input). Making several attempts, reading and re-reading the problem description, I realized my initial views were incorrect and that I could not provide a solution in a couple of hours. But instead of opting for a helping hand in the form of discussion thread I doubled down in my strong-headedness to find the solution on my own, barring any outside input. I did for a few moments revel in the cold shower of self-pity, having a blank look of a disillusioned student (the worst time for anyone to make decisions), being on the cross-roads of closing the laptop lid, walking away or doggedly carry on. I chose the second option. This was a second mistake as I had to invest resources not meant to be applied to solving this problem.
