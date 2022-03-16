@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How not to solve HackerRank problem"
+title: "How not to solve HackerRank problems"
 date: 2022-03-16
 ---
 1200 words
