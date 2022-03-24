@@ -31,7 +31,7 @@ The code is so convoluted, that I do not want you to dwell on it too much. Do sc
 
 **References:**
 
-_Kumar, A. (n.d.) ‘Swap Nodes [Algo]’ [Online]. Found at https://www.hackerrank.com/challenges/swap-nodes-algo/problem?h_r=profile (Accessed 22 February 2022)._
+_Kumar, A. (n.d.) ‘Swap Nodes [Algo]’ [Online]. Available at https://www.hackerrank.com/challenges/swap-nodes-algo/problem?h_r=profile (Accessed 22 February 2022)._
 
 .java
 
