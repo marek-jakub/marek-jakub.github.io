@@ -19,13 +19,13 @@ In search of a solution it is important to look for patterns (or regular occurre
 
 {% include image.html url="/images/post2022-07-17/02_lists_travel.png" description="Figure 2: A description of a binary tree-like movement in nested list structure, through nodes 1-3-6-12." %}
 
-The binary tree movement in nested lists structure is achieved by direct determination of positions of a node’s children. While in a binary tree nodes are connected through node attribute values (e.g. ‘leftChild’ and ‘rightChild’), in this case left child is found by determining position of parent node in the inner list (signifying tree level), e.g. position is 3 in the case of node ‘6’ in the Figure 2 and applying the formula $\left( 3\times2 \right)-2$ to give 4. The right child is found by applying formula $(3\times2)-1$ to give 5. Now positions 4 and 5 of the following list (signifying next depth of the tree) can be checked for existing nodes possibly holding that node’s children.
+The binary tree movement in nested lists structure is achieved by direct determination of positions of a node’s children. While in a binary tree nodes are connected through node attribute values (e.g. ‘leftChild’ and ‘rightChild’), in this case left child is found by determining position of parent node in the inner list (signifying tree level), e.g. position is 3 in the case of node ‘6’ in the Figure 2 and applying the formula (3 x 2) - 2 to give 4. The right child is found by applying formula (3 x 2) - 1 to give 5. Now positions 4 and 5 of the following list (signifying next depth of the tree) can be checked for existing nodes possibly holding that node’s children.
 
 Due to the lack of edges, nested lists require several variables to keep track of traversed nodes’ position, the implementation given below holds the position of visited inner list (holding nodes at a given depth of the tree), the position of visited node in an inner list and the depth of the tree (designated as the number of levels in the method). The node at the current position is selected, the count of nodes positioned left-wise to the node at a given level of the tree is determined, followed by in-order traversal movement. Those variables allow for the binary tree-like movement across nested lists, and implementation of the in-order traversal. As an exercise, please, try implementing other forms of traversal.
 
 **References:**
 
-_Kumar, A. (n.d.) ‘Swap Nodes [Algo]’ [Online]. Available at <https://www.hackerrank.com/challenges/swap-nodes-algo/problem?h_r=profile> (Accessed 22 February 2022)._
+_Miller, B.N. and Ranum, D.L. (2011). Problem solving with algorithms and data structures using Python. Sherwood, Or.: Franklin, Beedle & Associates._
 
 .java
 
