@@ -31,13 +31,13 @@ The code is so convoluted, that I do not want you to dwell on it too much. Do sc
 
 **References:**
 
-_Kumar, A. (n.d.) ‘Swap Nodes [Algo]’ [Online]. Available at <https://www.hackerrank.com/challenges/swap-nodes-algo/problem?h_r=profile> (Accessed 22 February 2022)._
+_Miller, B.N. and Ranum, D.L. (2011). Problem solving with algorithms and data structures using Python. Sherwood, Or.: Franklin, Beedle & Associates._
 
 .java
 
 ***
 
-~~~
+~~~java
 class Result {
     
     private static Map<Integer, Integer> nodes_per_depth;
