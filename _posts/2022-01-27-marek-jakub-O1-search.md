@@ -23,7 +23,7 @@ Please, find the code in this [GitHub repository](https://github.com/marek-jakub
 
 ***
 
-~~~
+~~~python
 def get_jump():
     return 41
 
