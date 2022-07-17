@@ -25,7 +25,7 @@ The code is available as a [GitHub repository](https://github.com/marek-jakub/sh
 
 ***
 
-~~~
+~~~python
 def index(letter, alphabet):
     insertion_index = -1
     for i in range(26):
