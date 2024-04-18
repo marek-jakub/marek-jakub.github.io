@@ -137,8 +137,8 @@
   }
   
   .listItemAvatar {
-    width: 24px;
-    height: 24px;
+    width: 27px;
+    height: 27px;
     border-radius: 50%;
     object-fit: cover;
   }
@@ -182,7 +182,7 @@
     color: var(--bg);
   }
   .page-item.disabled{
-    background-color: #313845;
+    background-color: #877459;
     cursor: not-allowed;
   }
   
@@ -251,6 +251,7 @@
     flex: 3;
     font-size: 20px;
     line-height: 32px;
+    text-align: justify;
   }
   
   .singleContent p,
@@ -279,7 +280,7 @@
   
   /* RIGHTBAR START */
   
-  .rightBar {
+  /* .rightBar {
     position: sticky;
     top: 100px;
   }
@@ -292,7 +293,7 @@
   
   .rightBarImgHr {
     display: none;
-  }
+  } */
   
   /* RIGHTBAR END */
   

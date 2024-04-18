@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="single">
+    <div class="singleHead">
+        <div class="singleHeadTexts">
+            <h1 class="singleHeadTitle">{{ .Title }}</h1>
+            <div class="singleHeadDetail">
+                <img src="{{ .Params.avatar }}" class="singleAvatar" alt="" loading="lazy">
+            </div>
+        </div>
+    </div>
+    <div class="singleBottom">
+        <div class="singleContent">{{ .Content }}</div>
+    </div>
+</div>
+{{ end }}
