@@ -1,8 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://marek-jakub.github.io'
 languageCode = 'en-us'
 title = 'Marek Jakub'
 
-paginate = 4
+paginate = 5
 
 [params]
   description = "Marek Jakub blogging"
