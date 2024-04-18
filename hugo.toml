@@ -1,3 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Marek Jakub'
+
+paginate = 4
+
+[params]
+  description = "Marek Jakub blogging"
+  dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+  category = "categories"
+  author = "authors"

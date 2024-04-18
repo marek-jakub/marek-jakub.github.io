@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Marek Jakub</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Marek Jakub</description>
+    <generator>Hugo 0.125.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2024 14:48:04 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flutter</title>
+      <link>http://localhost:1313/categories/flutter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/flutter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>http://localhost:1313/categories/general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/categories/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dart</title>
+      <link>http://localhost:1313/categories/dart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/dart/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>QT</title>
+      <link>http://localhost:1313/categories/qt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/qt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JS</title>
+      <link>http://localhost:1313/categories/js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/categories/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/categories/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/python/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

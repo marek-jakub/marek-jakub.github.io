@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marek Jakub</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Marek Jakub</description>
+    <generator>Hugo 0.125.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2024 14:48:04 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Sixth Post</title>
+      <link>http://localhost:1313/my-sixth-post/</link>
+      <pubDate>Wed, 17 Apr 2024 14:48:04 +0200</pubDate>
+      <guid>http://localhost:1313/my-sixth-post/</guid>
+      <description>Flutter post text. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus proin nibh nisl condimentum id venenatis a condimentum vitae. Purus ut faucibus pulvinar elementum integer. Est lorem ipsum dolor sit amet consectetur adipiscing. Nibh tellus molestie nunc non blandit massa enim nec. Donec pretium vulputate sapien nec. Quam id leo in vitae turpis massa. Pellentesque sit amet porttitor eget.</description>
+    </item>
+    <item>
+      <title>My Fifth Post</title>
+      <link>http://localhost:1313/my-fifth-post/</link>
+      <pubDate>Wed, 17 Apr 2024 14:47:53 +0200</pubDate>
+      <guid>http://localhost:1313/my-fifth-post/</guid>
+      <description>Fifth post text.</description>
+    </item>
+    <item>
+      <title>My Fourth Post</title>
+      <link>http://localhost:1313/my-fourth-post/</link>
+      <pubDate>Wed, 17 Apr 2024 14:47:45 +0200</pubDate>
+      <guid>http://localhost:1313/my-fourth-post/</guid>
+      <description>Fourht post text.</description>
+    </item>
+    <item>
+      <title>My Third Post</title>
+      <link>http://localhost:1313/my-third-post/</link>
+      <pubDate>Wed, 17 Apr 2024 14:47:35 +0200</pubDate>
+      <guid>http://localhost:1313/my-third-post/</guid>
+      <description>Third post text.</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/my-second-post/</link>
+      <pubDate>Wed, 17 Apr 2024 14:47:24 +0200</pubDate>
+      <guid>http://localhost:1313/my-second-post/</guid>
+      <description>Second post text.</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/my-first-post/</link>
+      <pubDate>Wed, 17 Apr 2024 14:34:24 +0200</pubDate>
+      <guid>http://localhost:1313/my-first-post/</guid>
+      <description>Test content.</description>
+    </item>
+  </channel>
+</rss>
