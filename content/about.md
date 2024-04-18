@@ -1,6 +1,6 @@
 +++
 layout = 'about'
-title = 'About'
+title = 'Marek Jakub'
 draft = false
 authors = ["Marek Jakub"]
 avatar = "/images/avatar.png"
