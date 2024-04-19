@@ -1,16 +1,16 @@
 {{ define "main" }}
-<div class="single">
-    <div class="singleHead">
-        <div class="singleHeadTexts">
-            <h1 class="singleHeadTitle">{{ .Title }}</h1>
-            <div class="singleHeadDetail">
-                <img src="{{ .Params.avatar }}" class="singleAvatar" alt="" loading="lazy">
+<div class="about">
+    <div class="aboutHead">
+        <div class="aboutHeadTexts">
+            <h1 class="aboutHeadTitle">{{ .Title }}</h1>
+            <div class="aboutHeadDetail">
+                <img src="{{ .Params.avatar }}" class="aboutAvatar" alt="" loading="lazy">
             </div>
         </div>
-        <img src="/images/MJ_small.jpg" alt="{{ .Title }}" />
+        <img class="aboutHeadImg" src="/images/MJ_small.jpg" alt="{{ .Title }}" />
     </div>
-    <div class="singleBottom">
-        <div class="singleContent">{{ .Content }}</div>
+    <div class="aboutBottom">
+        <div class="aboutContent">{{ .Content }}</div>
     </div>
 </div>
 {{ end }}

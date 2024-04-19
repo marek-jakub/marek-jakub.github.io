@@ -1,7 +1,7 @@
 +++
 layout = 'about'
 title = 'Marek Jakub'
-date = 2015-04-17
+date = 2020-04-17
 draft = false
 authors = ["Marek Jakub"]
 avatar = "/images/avatar.png"
