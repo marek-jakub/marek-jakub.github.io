@@ -5,7 +5,7 @@ draft = false
 description = "Experimenting with tree algorithms"
 image = "/images/listImages/01_b_to_t.jpg"
 imageBig = ""
-categories = ["general", "algorithms", "trees", "Python", ]
+categories = ["general", "algorithms", "tree", "Python", ]
 authors = ["Marek Jakub"]
 avatar = "/images/avatar.png"
 +++
