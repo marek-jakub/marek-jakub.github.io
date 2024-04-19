@@ -13,8 +13,8 @@
 </head>
 
 <body>
+    {{ partial "navbar" . }}
     <div class="container">
-        {{ partial "navbar" . }}
         {{ block "main" . }}{{ end }}
         {{ partial "footer" . }}
     </div>
