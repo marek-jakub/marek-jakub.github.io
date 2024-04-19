@@ -2,7 +2,7 @@
 title = 'An old-fashioned library (bookcase)'
 date = 2021-11-20
 draft = false
-description = "Experimenting with three-dimensional algorithms"
+description = "Experimenting with tree algorithms"
 image = "/images/listImages/02_cubes.jpg"
 imageBig = ""
 categories = ["general", "algorithms", "trees", "3-dimensions", "Python", ]
@@ -29,7 +29,7 @@ As books are inserted into the list, the number of nodes might change, therefore
 
 .py
 
-~~~python
+```py
 def index(letter, alphabet):
     insertion_index = -1
     for i in range(26):
@@ -177,7 +177,7 @@ class ShapeList:
         print("Letter loads:")
         for i in range(1, 27):
             print(self.shape_list[i], " - ", self.shape_list[self.shape_nodes + i])
-~~~
+```
 
 ## Observations
 
