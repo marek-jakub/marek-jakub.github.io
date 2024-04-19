@@ -251,10 +251,15 @@
     flex: 3;
     font-size: 20px;
     line-height: 32px;
-    text-align: justify;
   }
   
-  .singleContent p,
+  .singleContent p {
+    margin: 20px 0px;
+    text-align: justify;
+    word-break: break-word;
+    overflow-wrap: break-word;
+  }
+
   .singleContent h1,
   .singleContent h2,
   .singleContent h3 {
@@ -262,8 +267,9 @@
   }
   
   .singleContent img {
-    width: 100%;
-    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   .singleContent pre {
