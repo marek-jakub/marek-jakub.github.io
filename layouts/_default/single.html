@@ -10,11 +10,13 @@
                     <a href="{{ .Permalink }}">{{ .Name }}</a>
                     {{ end }}
                 </span>
+                <time>{{ dateFormat .Site.Params.dateFormat .Date }}</time>
+            </div>
+            <div class="singleHeadCategories">
                 {{ range (.GetTerms "categories") }}
-                <a class="singleCategory" href="{{ .Permalink }}">{{ .Name }}</a>
+                <a class="singleHeadCategory" href="{{ .Permalink }}">{{ .Name }}</a>
                 {{ end }}
             </div>
-            <time>{{ dateFormat .Site.Params.dateFormat .Date }}</time>
         </div>
         {{/* <img src="{{ .Params.imageBig }}" class="singleHeadImg" alt="{{ .Title }}" /> */}}
     </div>

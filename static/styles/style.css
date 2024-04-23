@@ -236,7 +236,7 @@
     object-fit: cover;
   }
   
-  .singleCategory {
+  .singleHeadCategory {
     padding: 5px;
     border-radius: 5px;
     background-color: var(--bgSoft);
@@ -448,6 +448,9 @@
   @media (max-width: 640px) {
     .container {
       max-width: 475px;
+    }
+    .singleHeadDetail {
+      flex-flow: row wrap;
     }
     .singleContent p {
       max-width: 400px;
