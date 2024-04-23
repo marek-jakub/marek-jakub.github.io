@@ -134,6 +134,10 @@
     flex-direction: column;
     gap: 10px;
   }
+
+  .listItemTitle {
+    font-size: 24px;
+  }
   
   .listItemDetail {
     display: flex;
