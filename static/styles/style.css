@@ -419,6 +419,8 @@
   @media (max-width: 768px) {
     .container {
       max-width: 640px;
+      padding-left: 5px;
+      padding-right: 5px;
     }
     .links {
       font-size: 14px;
@@ -448,11 +450,26 @@
   @media (max-width: 640px) {
     .container {
       max-width: 475px;
+      padding-left: 5px;
+      padding-right: 5px;
     }
     .singleHeadDetail {
       flex-flow: row wrap;
     }
-    .singleContent p {
-      max-width: 390px;
+    .singleContent{
+      max-width: 450px;
+    }
+  }
+  @media (max-width: 480px) {
+    .container {
+      max-width: 380px;
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+    .singleHeadDetail {
+      flex-flow: row wrap;
+    }
+    .singleContent{
+      max-width: 370px;
     }
   }
