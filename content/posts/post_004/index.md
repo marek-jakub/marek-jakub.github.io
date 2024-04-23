@@ -10,10 +10,6 @@ authors = ["Marek Jakub"]
 avatar = "/images/avatar.png"
 +++
 
-## How not to solve HackerRank problems
-
-2022-03-16
-
 1200 words
 
 Taking a time to solve HackerRank problems is a great way to prepare for a job interview or school exams. Problems pose as stepping stones, starting at easy difficulty, through medium to hard, and then on to advanced or expert levels. A problem one chooses to solve is described, and input/output characteristics are given. If one does struggle, one can opt to enter discussion thread, where regularly solutions appear, study those first before entering one’s own solution, or choose to see editorial notes (in that case solution points do not count).
