@@ -21,6 +21,7 @@ It was the second interview, where I completely lost my cool. As my assignment w
 Interviewer: “Given we have these 3 entities, can you describe a schema with relationships among them?”
 
 Me: “What? Oh, there is the table A, table B and… What was the other entity?”
+
 Interviewer: “Entity C.”
 
 Me: “Oh, sorry! All right, table C.”
