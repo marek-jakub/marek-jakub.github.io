@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Marek Jakub'
 
 [pagination]
-pagerSize = 5
+  pagerSize = 5
 
 [params]
   description = "Marek Jakub blogging"
