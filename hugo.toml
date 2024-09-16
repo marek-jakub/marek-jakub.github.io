@@ -2,7 +2,8 @@ baseURL = 'https://marek-jakub.github.io'
 languageCode = 'en-us'
 title = 'Marek Jakub'
 
-paginate = 5
+[pagination]
+pagerSize = 5
 
 [params]
   description = "Marek Jakub blogging"
