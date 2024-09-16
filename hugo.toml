@@ -3,7 +3,9 @@ languageCode = 'en-us'
 title = 'Marek Jakub'
 
 [pagination]
+  disableAliases = false
   pagerSize = 5
+  path = 'page'
 
 [params]
   description = "Marek Jakub blogging"
