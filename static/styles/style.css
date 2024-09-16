@@ -293,6 +293,10 @@
     font-style: italic;
     text-align: center;
   }
+
+  .empty-gap {
+    height: 4em;
+  }
   
   /* SINGLE END */
   
