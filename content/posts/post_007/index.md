@@ -7,7 +7,7 @@ image = "/images/listImages/07_pgadmin.png"
 imageBig = ""
 categories = ["general", "SQL", "pgAdmin", "Linux", "Mint", "Bash"]
 authors = ["Marek Jakub"]
-avatar = "/images/avatar.png"
+avatar = "/images/avatar.avif"
 +++
 
 300 words
@@ -26,7 +26,7 @@ So while the PostgreSQL has been installed at the user level, pgAdmin has been i
 
 After installation, on running pgAdmin from such local directory, the error shown in the Figure 1 has been seen:
 
-![Figure 1: An error shown on starting pgAdmin application.](images/pgadmin_error.png "Figure 1: An error shown on starting pgAdmin application.")
+![Figure 1: An error shown on starting pgAdmin application.](images/pgadmin_error.avif "Figure 1: An error shown on starting pgAdmin application.")
 *Figure 1: An error shown on starting pgAdmin application.*
 
 ## Solution

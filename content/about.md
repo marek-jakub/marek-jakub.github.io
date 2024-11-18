@@ -4,8 +4,8 @@ title = 'Marek Jakub'
 date = 2020-04-17
 draft = false
 authors = ["Marek Jakub"]
-avatar = "/images/avatar.png"
-image = "/images/MJ_small.jpg"
+avatar = "/images/avatar.avif"
+image = "/images/MJ_small.avif"
 +++
 
 Marek Jakub is an alum of The Open University (The OU), Milton

@@ -7,7 +7,7 @@ image = "/images/listImages/02_cubes.jpg"
 imageBig = ""
 categories = ["general", "algorithms", "tree", "3-dimensions", "Python", ]
 authors = ["Marek Jakub"]
-avatar = "/images/avatar.png"
+avatar = "/images/avatar.avif"
 +++
 
 1800 words

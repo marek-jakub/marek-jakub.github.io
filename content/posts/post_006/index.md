@@ -7,7 +7,7 @@ image = "/images/listImages/06_Error.png"
 imageBig = ""
 categories = ["general", "Flutter", "app", "Dart", "error" ]
 authors = ["Marek Jakub"]
-avatar = "/images/avatar.png"
+avatar = "/images/avatar.avif"
 +++
 
 200 words
@@ -20,7 +20,7 @@ Building a mobile application focused on data management, some of the logic has 
 
 The provider has offered a single Facade to several forms (collecting data), but has served as a Pipeline (e.g. for sorting or transforming data) as well. The task has been simple, on filling a form, the data has been sent to the provider, which in turn called the right method (any one of the CRUD methods...) in the single instance of the database. The access to the database has been supplied by the Provider package. During the update of the database class name, error in the Figure 1 has been encountered:
 
-![Figure 1: An error shown on accessing nonexistent resource.](images/Error.png "Figure 1: An error shown on accessing nonexistent resource.")
+![Figure 1: An error shown on accessing nonexistent resource.](images/Error.avif "Figure 1: An error shown on accessing nonexistent resource.")
 *Figure 1: An error shown on accessing nonexistent resource.*
 
 ## Action

@@ -7,7 +7,7 @@ image = "/images/listImages/01_b_to_t.jpg"
 imageBig = ""
 categories = ["general", "algorithms", "tree", "Python", ]
 authors = ["Marek Jakub"]
-avatar = "/images/avatar.png"
+avatar = "/images/avatar.avif"
 +++
 
 1000 words

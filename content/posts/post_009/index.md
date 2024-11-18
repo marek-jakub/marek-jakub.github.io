@@ -7,7 +7,7 @@ image = "/images/listImages/09_jason.png"
 imageBig = ""
 categories = ["interview", "job", "JSON", "fun", "failures",]
 authors = ["Marek Jakub"]
-avatar = "/images/avatar.png"
+avatar = "/images/avatar.avif"
 +++
 
 1100 words
@@ -68,7 +68,7 @@ Interviewer: “Good! So, you actually created this?”
 
 Let us leave the interview here. You can see how my unpreparedness, together with my freaking out actually caused the interviewer question the authenticity of my past work. They were gracious not to laugh at me, but the interview was soon ended with all too familiar words: “Thank you! We will let you know…!”
 
-![A joking statement on the vagaries of interview process.](images/jason.png "A joking statement on the vagaries of interview process.")
+![A joking statement on the vagaries of interview process.](images/jason.avif "A joking statement on the vagaries of interview process.")
 *Created in Copilot Designer.*
 
 Now, with a hindsight, we can analyse what could be done before the interview or during the interview.
