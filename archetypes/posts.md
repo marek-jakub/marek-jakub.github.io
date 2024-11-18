@@ -7,5 +7,5 @@ image = ""
 imageBig = ""
 categories = ["general"]
 authors = ["Marek Jakub"]
-avatar = "/images/avatar.png"
+avatar = "/images/avatar.avif"
 +++
