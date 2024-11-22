@@ -4,6 +4,13 @@
     --text: #dee4eb;
     --textSoft: #cbd2d9;
     --navbar: #0e0524;
+    --link: #7881b4;
+    --linkVisited: #acacaf;
+    --linkFocus: #7881b4;
+    --linkHover: #393ce0;
+    --linkActive: #7881b4;
+    --toggle: #1f3050;
+    --toggleBorder: #1f3050;
   }
   
   * {
@@ -18,13 +25,45 @@
   
   body.light{
     --bg: #dee4eb;
+    --bgSoft: #b9cdf1;
     --text: #0b1529;
     --navbar: #bbd0e9;
+    --link: #64649e;
+    --linkVisited: #5e5d75;
+    --linkFocus: #64649e;
+    --linkHover: #1f1f68;
+    --linkActive: #64649e;
   }
-  
+
+/* Links dark mode */
   a {
-    color: inherit;
+    outline-color: transparent;
+    /* color: inherit; */
+  }
+
+  a:link {
     text-decoration: none;
+    color: var(--link);
+  }
+
+  a:visited {
+    text-decoration: none;
+    color: var(--linkVisited);
+  }
+
+  a:focus {
+    text-decoration: none;
+    color: var(--linkFocus);
+  }
+
+  a:hover {
+    text-decoration: none;
+    color: var(--linkHover);
+  }
+
+  a:active {
+    text-decoration: none;
+    color: var(--linkActive);
   }
   
   .container {
@@ -74,8 +113,8 @@
     display: flex;
     align-items: center;
     gap: 5px;
-    background-color: var(--bgSoft);
-    border: 0.5px solid var(--textSoft);
+    background-color: var(--toggle);
+    border: 0.5px solid var(--toggleBorder);
     padding: 5px;
     position: relative;
   }
