@@ -97,7 +97,18 @@
     font-weight: bold;
     font-size: 32px;
   }
-  
+
+  .logo a {
+  color: var(--link);
+  text-decoration: none;
+  }
+
+  .logo a:hover,
+  .logo a:active,
+  .logo a:visited {
+      color: var(--link);
+  }
+
   .links {
     display: flex;
     align-items: center;
