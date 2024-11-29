@@ -463,6 +463,12 @@
     .container {
       max-width: 1280px;
     }
+    .logo {
+	padding-left: 6vw;
+    }
+    .links {
+	padding-right: 6vw;
+    }
     .singleContent p {
       max-width: 1000px;
     }
@@ -471,6 +477,12 @@
     .container {
       max-width: 1024px;
     }
+    .logo {
+	padding-left: 5vw;
+    }
+    .links {
+	padding-right: 5vw;
+    }    
     .singleContent p {
       max-width: 800px;
     }
@@ -480,6 +492,12 @@
       max-width: 768px;
       padding-left: 10px;
       padding-right: 10px;
+    }
+    .logo {
+	padding-left: 4vw;
+    }
+    .links {
+	padding-right: 4vw;
     }
     .singleContent p {
       max-width: 700px;
@@ -494,8 +512,12 @@
       padding-left: 5px;
       padding-right: 5px;
     }
+    .logo {
+	padding-left: 3vw;
+    }
     .links {
 	font-size: 14px;
+	padding-right: 3vw;
     }
     .listItemImage {
       display: none;
